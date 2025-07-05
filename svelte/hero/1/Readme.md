@@ -12,18 +12,6 @@ Puedes ver una muestra de este hero en un proyecto real aquí 👉 [BarberHero](
 
 Copia el archivo `Hero.svelte` a tu proyecto y asegúrate de tener TailwindCSS configurado.
 
-
-```svelte
-<script>
-  // Importa el componente si usas un sistema de módulos
-  // import Hero from './Hero.svelte';
-</script>
-
-<Hero />
-```
-
-## Props
-
 Actualmente el componente no recibe props, pero puedes modificar el título, descripción y enlace directamente en el archivo.
 
 ## Personalización
